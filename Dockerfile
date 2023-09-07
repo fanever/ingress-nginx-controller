@@ -1,2 +1,2 @@
-FROM us.gcr.io/k8s-artifacts-prod/ingress-nginx/controller:v0.34.1
+FROM registry.k8s.io/ingress-nginx/controller:v1.8.1
 MAINTAINER fanever
